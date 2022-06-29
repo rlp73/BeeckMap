@@ -228,7 +228,7 @@
 
         //YOUR TURN: Replace with csv export link
 
-        url: 'https://docs.google.com/spreadsheets/d/1gf1uoJkj4tAvnb7FXuynlGVMqM8lARu43Ve9DXPEUE8/edit#gid=0',
+        url: 'https://docs.google.com/spreadsheets/d/1gf1uoJkj4tAvnb7FXuynlGVMqM8lARu43Ve9DXPEUE8/gviz/tq?tqx=out:csv&sheet=SampleMapData',
 
         dataType: "text",
 
